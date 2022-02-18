@@ -10,21 +10,21 @@ Here is an example of a snippet I should be able to paste into the app (taken fr
 
  
 
-1.  <metadata>
+## 1.  <metadata>
 
-2.  <link rel="dcterms:conformsTo"
+## 2.  <link rel="dcterms:conformsTo"
 
-3.  href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa"/>
+## 3.  href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa"/>
 
-4.  <meta property="a11y:certifiedBy">Dewey, Checkett and Howe</meta>
+## 4.  <meta property="a11y:certifiedBy">Dewey, Checkett and Howe</meta>
 
-5.  <meta property="a11y:certifierCredential">Certifiably Accessible</meta>
+## 5.  <meta property="a11y:certifierCredential">Certifiably Accessible</meta>
 
-6.  <link rel="a11y:certifierReport"
+## 6.  <link rel="a11y:certifierReport"
 
-7.  href="https://example.com/reports/a11y/pub.html"/>
+## 7.  href="https://example.com/reports/a11y/pub.html"/>
 
-8.  …
+## 8.  …
 
-9.  </metadata>
+## 9.  </metadata>
 
